@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1637067578 source:c:\users\aleksander ramut\desktop\wisielczyk\rozgrywka.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"rozgrywka.h"
+
+1637067200 source:c:\users\aleksander ramut\desktop\wisielczyk\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"rozgrywka.h"
+
+1637138438 c:\users\aleksander ramut\desktop\wisielczyk\rozgrywka.h
+	<iostream>
+
+1637148221 source:c:\users\aleksander ramut\desktop\wisielczyk — kopia robocza\main.cpp
+	<iostream>
+	"rozgrywka.h"
+
+1637148243 c:\users\aleksander ramut\desktop\wisielczyk — kopia robocza\rozgrywka.h
+	<iostream>
+
+1637148104 source:c:\users\aleksander ramut\desktop\wisielczyk — kopia robocza\rozgrywka.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	"rozgrywka.h"
+
+1638866715 source:c:\users\aleksander ramut\desktop\codeblocks\wisielczyk — kopia robocza\rozgrywka.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<ctime>
+	"rozgrywka.h"
+	"drawings.h"
+
+1638866710 c:\users\aleksander ramut\desktop\codeblocks\wisielczyk — kopia robocza\rozgrywka.h
+	<iostream>
+
+1638866662 source:c:\users\aleksander ramut\desktop\codeblocks\wisielczyk — kopia robocza\main.cpp
+	<iostream>
+	<windows.h>
+	"rozgrywka.h"
+
+1637160138 source:c:\users\aleksander ramut\desktop\codeblocks\wisielczyk — kopia robocza\drawings.cpp
+
+1637305949 c:\users\aleksander ramut\desktop\codeblocks\wisielczyk — kopia robocza\drawings.h
+	<iostream>
+
+1640095670 source:c:\users\aleksander ramut\desktop\codeblocks\wisielczyk\rozgrywka.cpp
+	"rozgrywka.h"
+	"drawings.h"
+
+1639484618 c:\users\aleksander ramut\desktop\codeblocks\wisielczyk\rozgrywka.h
+	<iostream>
+	<windows.h>
+	<fstream>
+	<ctime>
+
+1639479610 c:\users\aleksander ramut\desktop\codeblocks\wisielczyk\drawings.h
+
+1639484588 source:c:\users\aleksander ramut\desktop\codeblocks\wisielczyk\main.cpp
+	"rozgrywka.h"
+
